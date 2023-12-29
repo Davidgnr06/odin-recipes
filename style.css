@@ -1,0 +1,24 @@
+*{
+    background-color: #7df;
+}
+
+.axl{
+    background-color: #3df;
+    color: #000;
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+
+}
+.slash{
+       font-size: 25px;
+ 
+}
+
+p,ul,ol{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.duff{background-color: #999;}
+
