@@ -1,19 +1,44 @@
-*{
+html{
+    background-color: #000;
+    margin: 0px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding:25px;
     background-color: #7df;
+    box-sizing: inherit;
 }
 
 .axl{
     background-color: #3df;
     color: #000;
     font-size: 50px;
-    font-family:Georgia, 'Times New Roman', Times, serif
-    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 5% 15%;
+    padding: 20px;
+    border-style: double;
+    border-width: 10px;
+    box-sizing: inherit;
+  }
 
-}
 .slash{
        font-size: 25px;
- 
-}
+       margin: 5% 20%;
+       list-style-type: none;
+       padding: 0px;
+       box-sizing:inherit;
+ }
+ li{
+    border-style: ridge;
+    border-color: #000;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    
+ }
 
 p,ul,ol{
     font-weight: bold;
