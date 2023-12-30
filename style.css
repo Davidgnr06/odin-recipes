@@ -10,6 +10,10 @@ body{
     background-color: #7df;
     box-sizing: inherit;
 }
+.izzy{
+    width: 100%;
+    height: 100%;
+}
 
 .axl{
     background-color: #3df;
